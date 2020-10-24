@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="змейка(игра)" MainFile="змейка(игра).pas" OutputFileName="змейка(игра).exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" Title="" Description="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="змейка(игра).pas" Path="змейка(игра).pas" />
+    <Item Type="SourceFile" Name="DrawUnit.pas" Path="DrawUnit.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+    <Item Type="Reference" AssemblyName="SmallBasicLibrary" FullAssemblyName="SmallBasicLibrary.dll" />
+  </Items>
+</Project>
